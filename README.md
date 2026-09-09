@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Oussama+%F0%9F%91%8B;Full-Stack+AI+%2F+GenAI+Engineer;RAG+Pipelines+%C2%B7+LLM+Agents+%C2%B7+Systems+Programming;42%2F1337+Network+%7C+Fes%2C+Morocco" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Oussama+%F0%9F%91%8B;Full-Stack+AI+%2F+GenAI+Engineer;RAG+Pipelines+%C2%B7+LLM+Agents;Systems+Programming+%C2%B7+42%2F1337;Fes%2C+Morocco" alt="Typing SVG" />
 
 <br/>
 
@@ -64,6 +64,11 @@ I'm a self-directed **Software Engineering student at UM6P‑1337 (42 Network)**
 <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+**Package Managers**
+<br/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
 
 </div>
 
