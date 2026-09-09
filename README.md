@@ -69,7 +69,7 @@ I'm a self-directed **Software Engineering student at UM6P‑1337 (42 Network)**
 <br/>
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white"/>
 </div>
 
 <br/>
